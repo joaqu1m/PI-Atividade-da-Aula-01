@@ -1,0 +1,27 @@
+.divA {
+    background-color: #aaa500;
+    height: 500px;
+    width: 500px;
+}
+.divB {
+    background-color: #add22f;
+    height: 50%;
+    width: 50%;
+}
+.divC {
+    color: red;
+    background-color: black;
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: bold;
+}
+.divD {
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(59, 107, 107);
+}
+.divE {
+    width: 75vh;
+    height: 50%;
+    background-color: rgb(129, 55, 55);
+}
